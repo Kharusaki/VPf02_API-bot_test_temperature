@@ -1,0 +1,36 @@
+# Secrets
+.env
+.env.*
+!.env.example
+*token*.txt
+*token*.TXT
+*proxyapi*.txt
+*ProxyAPI*.txt
+*ключ*.txt
+*токен*.txt
+
+# Homework reports and exported documents
+*.docx
+*.doc
+*.pdf
+Отчет*
+отчет*
+Отчёт*
+отчёт*
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Logs
+*.log
+
+# IDE and OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
